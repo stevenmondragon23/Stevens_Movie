@@ -1,0 +1,9 @@
+# Archivos de compilación
+bin/
+obj/
+
+# Base de datos local
+*.db
+
+# Archivos de Visual Studio
+.vs/
